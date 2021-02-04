@@ -1,4 +1,4 @@
-﻿:root {
+:root {
     --button-color: #C9D91E;
 }
 body {
@@ -49,7 +49,9 @@ main{
 section {
     flex: 0 0 75%;
     display: flex;
-
+}
+.noflex{
+    display:block;
 }
 .wrap{
     flex-wrap: wrap;
