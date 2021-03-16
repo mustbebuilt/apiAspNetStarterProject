@@ -66,6 +66,9 @@ section > div > h3 > a{
     color:#000;
     text-decoration:none;
 }
+.item{
+    display:flex;
+}
 div.filmThumb > div {
     overflow: hidden;
 }
